@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MyChips") (type "") (uri "${KIPRJMOD}/MyChips.kicad_sym") (options "") (descr ""))
+)
