@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "2026-09-03_01-13-24") (type "KiCad") (uri "${KIPRJMOD}/SJ_3523_SMT/KiCADv6/2026-09-03_01-13-24.kicad_sym") (options "") (descr ""))
+	(lib (name "DCWN03A-12") (type "KiCad") (uri "C:/Users/anasa/Downloads/LIB_DCWN03A-12/DCWN03A-12/KiCad/DCWN03A-12.kicad_sym") (options "") (descr ""))
+)
